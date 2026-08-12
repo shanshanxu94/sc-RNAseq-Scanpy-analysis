@@ -1,4 +1,4 @@
-# sc-sequence-practice
+# sc-RNAseq-Scanpy-analysis
 
 **Single-Cell RNA-Seq Analysis with ScanPy**
 
